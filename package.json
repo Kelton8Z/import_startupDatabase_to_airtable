@@ -1,0 +1,17 @@
+{
+  "name": "mm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sheets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.10.1",
+    "http-proxy": "^1.18.1",
+    "node-fetch": "^2.6.1",
+    "node-http-proxy": "^0.2.3"
+  }
+}
